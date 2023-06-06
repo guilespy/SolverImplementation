@@ -1,2 +1,1 @@
-# SolverImplementation
-Proximal Algorithm Implementation
+## End to End Proximity Operators Solver
