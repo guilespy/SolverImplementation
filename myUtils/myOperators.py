@@ -2,7 +2,7 @@ import numpy as np
 from copy import copy 
 import cv2
 from cv2 import GaussianBlur as blurring
-import numba
+
 
 
 class Blur():
