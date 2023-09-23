@@ -26,6 +26,8 @@ osqp==0.6.2.post8
 packaging==23.0
 pandas==1.5.3
 Pillow==9.4.0
+platformdirs==3.10.0
+pooch==1.7.0
 proxop==1.0.4
 pycparser==2.21
 Pygments==2.14.0
